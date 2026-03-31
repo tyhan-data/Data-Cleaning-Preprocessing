@@ -29,10 +29,7 @@ This project demonstrates a comprehensive approach to data cleaning and preproce
 - Identified and removed extreme values to reduce bias
 - Preserved data distribution integrity
 
-### 6. Data Consistency & Standardization
-- Standardized text formatting and categorical values
-- Removed extraneous whitespace
-- Corrected formatting inconsistencies
+
 
 ## Technologies & Dependencies
 
@@ -56,7 +53,7 @@ This project demonstrates a comprehensive approach to data cleaning and preproce
 ## Author
 
 **Tyhan Hassan**  
-Data Science Professional
+Future Data Science 
 
 ---
 
